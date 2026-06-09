@@ -37,7 +37,7 @@ AI-Phishing-Detector/
 
 └── screenshots/
 
-    ├── home.png
+    ├── home_v2.png
     
     └── result.png
 ---
@@ -57,7 +57,7 @@ AI-Phishing-Detector/
 ---
 ## Screenshots
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home_v2.png)
 ### Analysis Result
 ![Analysis Result](screenshots/result.png)
 ---
