@@ -27,19 +27,15 @@ Risk Assessment
 Security Recommendations
 ---
 ## Project Structure
-AI-Phishing-Detector/
-
+AI-Phishing-Detector
+│
 ├── app.py
-
 ├── requirements.txt
-
 ├── README.md
-
-└── screenshots/
-
-    ├── home_v2.png
-    
-    └── result.png
+└── screenshots
+    ├── home.png
+    ├── result1.png
+    └── result2.png
 ---
 ## Skills Demonstrated
 - Generative AI Integration
@@ -56,11 +52,10 @@ AI-Phishing-Detector/
 - Email Header Analysis
 ---
 ## Screenshots
+
 ### Home Page
-![Home Page](screenshots/home_v2.png)
-### Analysis Result
-![Analysis Result](screenshots/result.png)
----
-## Author
-Sadah Sree Perumalla
-B.Tech Computer Science (Data Science)
+![Home Page](screenshots/home.png)
+### Analysis Result - Part 1
+![Analysis Result 1](screenshots/result1.png)
+### Analysis Result - Part 2
+![Analysis Result 2](screenshots/result2.png)
